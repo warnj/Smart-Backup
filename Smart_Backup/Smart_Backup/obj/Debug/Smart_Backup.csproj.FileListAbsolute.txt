@@ -1,0 +1,13 @@
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\bin\Debug\Smart_Backup.exe.config
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\bin\Debug\Smart_Backup.exe
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\bin\Debug\Smart_Backup.pdb
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\Smart_Backup.csprojResolveAssemblyReference.cache
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\MainWindow.baml
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\MainWindow.g.cs
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\App.g.cs
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\Smart_Backup_MarkupCompile.cache
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\Smart_Backup.g.resources
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\Smart_Backup.Properties.Resources.resources
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\Smart_Backup.csproj.GenerateResource.Cache
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\Smart_Backup.exe
+C:\Users\warnj\Documents\Private-Misc\Smart_Backup\Smart_Backup\obj\Debug\Smart_Backup.pdb
