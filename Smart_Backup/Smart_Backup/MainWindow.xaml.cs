@@ -20,6 +20,9 @@ using System.Diagnostics;
 using Smart_Backup.Properties;
 
 // add some intelligence: ie if a folder was renamed but the files are the same name and date, just rename the local folder and don't recopy
+// 	save the difference data in a file or something so can rapidly do copying and delting in 2 steps if wanted
+	//some file size info might be nice
+//Ways to make faster
 
 // FYI: this backup system doesn't copy empty folders
 
